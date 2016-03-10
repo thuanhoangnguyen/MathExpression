@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JR.Solution.MathExpression", "JR.Solution.MathExpression\JR.Solution.MathExpression.csproj", "{04391C81-B343-4DF2-8FB6-7D6D4956EC63}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JR.Solution.MathExpression.Rules", "JR.Solution.MathExpression.Rules\JR.Solution.MathExpression.Rules.csproj", "{EC0AA3D9-E91E-423E-9CF2-F6ACD128E7DC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04391C81-B343-4DF2-8FB6-7D6D4956EC63}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04391C81-B343-4DF2-8FB6-7D6D4956EC63}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04391C81-B343-4DF2-8FB6-7D6D4956EC63}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04391C81-B343-4DF2-8FB6-7D6D4956EC63}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EC0AA3D9-E91E-423E-9CF2-F6ACD128E7DC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC0AA3D9-E91E-423E-9CF2-F6ACD128E7DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC0AA3D9-E91E-423E-9CF2-F6ACD128E7DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC0AA3D9-E91E-423E-9CF2-F6ACD128E7DC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
